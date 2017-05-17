@@ -1,0 +1,12 @@
+a{
+  align-content:flex-end;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+  border-radius:20;
+  flex-wrap: wrap;
+  text-align: x;
+  vertical-align:middle;
+  justify-content:space-around;
+  font-weight: 5
+}

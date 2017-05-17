@@ -5,12 +5,13 @@ class TrigonCom extends Component{
 
      constructor(){
        super();
-       
+
      }
 
      render(){
+       const way = styles[this.props.way];
         return (
-            <View style={styles[this.state.way]}></View>
+            <View style={way}></View>
         );
      }
 }
